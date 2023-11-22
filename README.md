@@ -6,18 +6,17 @@ This is a repository that stores all the assignments that were required to compl
 It consists of steps into creating a Report of Findings / Final Deliverable in Data Science.
 
 1. Collecting the Data
-   - jupyter-labs-spacex-data-collection-api.ipynb
-   - jupyter-labs-webscraping.ipynb
+   - data_collection_api.ipynb
+   - data_collection_webscraping.ipynb
 3. Data Wrangling
-   - labs-jupyter-spacex-Data wrangling.ipynb
+   - data_wrangling.ipynb
 5. Exploratory Data Analysis
-   - jupyter-labs-eda-dataviz.ipynb
-   - jupyter-labs-eda-sql-coursera_sqllite.ipynb
+   - eda_pandas_matplotlib.ipynb
+   - eda_sqlite.ipynb
 7. Interactive Visual Analytics and Dashboard
-   - lab_jupyter_launch_site_location.ipynb
+   - visual_analysis_folium.ipynb
    - spacex_dash_app.py
 9. Predictive Analysis
-   - SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite.ipynb 
+   - machine_learning_prediction.ipynb 
 11. Present Your Data-Driven Insights
-   - ds-capstone-template-coursera.pptx
-   - ds-capstone-template-coursera.pdf
+   - final_deliverable.pdf
