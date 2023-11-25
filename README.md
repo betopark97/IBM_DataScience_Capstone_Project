@@ -19,4 +19,4 @@ It consists of steps into creating a Report of Findings / Final Deliverable in D
 9. Predictive Analysis
    - machine_learning_prediction.ipynb 
 11. Present Your Data-Driven Insights
-   - final_deliverable.pdf
+   - Final_Deliverable_Presentation.pdf
